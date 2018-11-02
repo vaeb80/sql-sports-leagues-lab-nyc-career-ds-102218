@@ -13,8 +13,8 @@ CREATE TABLE players (id INTEGER PRIMARY KEY AUTOINCREMENT,
 
 CREATE TABLE games (id INTEGER PRIMARY KEY AUTOINCREMENT,
                     date DATE,
-                    info TEXT,
-                    location TEXT
+                    location TEXT,
+                    info TEXT
                   );
 
 CREATE TABLE team_games(id INTEGER PRIMARY KEY AUTOINCREMENT,
