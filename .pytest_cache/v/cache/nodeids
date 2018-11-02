@@ -1,0 +1,14 @@
+[
+  "test/test_create.py::TestCreateTables::test_games_table",
+  "test/test_create.py::TestCreateTables::test_leagues_table",
+  "test/test_create.py::TestCreateTables::test_players_table",
+  "test/test_create.py::TestCreateTables::test_team_games_table",
+  "test/test_create.py::TestCreateTables::test_teams_table",
+  "test/test_insert.py::TestInsertData::test_games_insert",
+  "test/test_insert.py::TestInsertData::test_leagues_insert",
+  "test/test_insert.py::TestInsertData::test_players_insert",
+  "test/test_insert.py::TestInsertData::test_team_games_insert",
+  "test/test_insert.py::TestInsertData::test_teams_insert",
+  "test/test_update.py::TestUpdateTables::test_chad_ochocinco",
+  "test/test_update.py::TestUpdateTables::test_metta_world_peace"
+]
