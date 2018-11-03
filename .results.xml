@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="1" failures="0" name="pytest" skips="0" tests="1" time="0.121"><testcase classname="" file="test/test_queries.py" name="test.test_queries" time="0"><error message="collection failure">test/test_queries.py:8: in &lt;module&gt;
+    cursor = sql_runner.execute_seed_file()
+test/sql_runner.py:29: in execute_seed_file
+    table = self.cursor.executescript(sql)
+E   sqlite3.OperationalError: duplicate column name: info</error></testcase></testsuite>
